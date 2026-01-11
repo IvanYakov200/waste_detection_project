@@ -81,7 +81,7 @@ https://colab.research.google.com/drive/1PePQcwUkrqs6ZSVT1EvSwN6IdKZYxW6X?usp=sh
 Вариант 2: Локальная установка
 bash
 # Клонирование репозитория
-git clone https://github.com/yourusername/waste-detection.git
+git clone https://github.com/IvanYakov200/waste_detection_project
 cd waste-detection
 
 # Установка зависимостей
