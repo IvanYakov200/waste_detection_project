@@ -1,0 +1,38 @@
+# Core dependencies
+torch>=1.10.0
+torchvision>=0.11.0
+opencv-python>=4.5.0
+ultralytics>=8.0.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+Pillow>=8.0.0
+scipy>=1.7.0
+tqdm>=4.60.0
+
+# Jupyter and notebook support
+jupyter>=1.0.0
+ipython>=7.0.0
+ipykernel>=6.0.0
+notebook>=6.0.0
+
+# Data processing
+pandas>=1.3.0
+scikit-learn>=0.24.0
+scikit-image>=0.18.0
+
+# Computer vision utilities
+albumentations>=1.0.0
+imgaug>=0.4.0
+pycocotools>=2.0.0
+
+# Development and utilities
+black>=21.0
+flake8>=3.9.0
+isort>=5.0.0
+pre-commit>=2.0.0
+
+# Optional dependencies for advanced features
+tensorboard>=2.6.0
+wandb>=0.12.0
+seaborn>=0.11.0
+plotly>=5.0.0
